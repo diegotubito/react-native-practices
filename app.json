@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "React Native Practices",
+    "slug": "react-native-practices",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {},
+    "web": {}
+  }
+}
