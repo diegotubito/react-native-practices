@@ -1,0 +1,26 @@
+{
+  "name": "react-native-practices",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "packageManager": "yarn@1.22.22",
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "scripts": {
+    "start": "expo start",
+    "mobile": "expo start",
+    "ios": "expo start --ios",
+    "android": "expo start --android",
+    "web": "expo start --web",
+    "doctor": "expo-doctor"
+  },
+  "dependencies": {
+    "expo": "^57.0.0",
+    "expo-status-bar": "~57.0.0",
+    "react": "19.2.3",
+    "react-native": "0.86.3"
+  },
+  "devDependencies": {},
+  "resolutions": {}
+}
