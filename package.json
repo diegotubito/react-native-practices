@@ -13,7 +13,7 @@
     "ios": "expo start --ios",
     "android": "expo start --android",
     "web": "expo start --web",
-    "doctor": "expo-doctor"
+    "doctor": "npx expo-doctor"
   },
   "dependencies": {
     "expo": "^57.0.0",

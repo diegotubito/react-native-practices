@@ -38,20 +38,23 @@ yarn android  # Start directly on Android Emulator
 yarn web      # Start web target
 ```
 
-## Practice roadmap
+## One-week Pareto plan
 
-1. Components, props, state, and events
-2. FlatList, selection, search, and filtering
-3. useEffect and common dependency bugs
-4. Async networking: loading, error, success, cancellation
-5. JavaScript collection exercises: map, filter, reduce, sorting
-6. Custom hooks and separation of responsibilities
-7. Rendering and performance fundamentals
-8. Navigation and screen data
-9. Debugging existing React Native code
-10. Testing fundamentals
-11. Native iOS / React Native integration
-12. Full mock live-coding sessions
+The broader topic list is a reference, not a one-week syllabus. The week focuses on translating existing mobile-engineering experience into React and React Native fluency.
+
+1. Practical JavaScript and the React mental model: collection operations, destructuring, spread, closures, promises, components, props, state, and renders.
+2. Hooks in real code: `useState`, `useEffect`, cleanup, dependencies, and `useRef`; then selective use of `useMemo` and `useCallback`.
+3. Everyday React Native: `FlatList`, `TextInput`, `Pressable`, simple forms, fetch, and loading/error/empty states.
+4. Bugs and refactoring: infinite effects, stale data, wrong keys, state mutation, duplicate requests, custom hooks, and service extraction when justified.
+5. Complete live coding: understand an existing project, implement a requirement, adapt to a follow-up, debug, and explain decisions while working.
+
+Navigation, testing, TypeScript, and native integration are secondary topics. New Architecture internals, advanced TypeScript, exhaustive testing, and sophisticated optimization are only covered if time remains.
+
+Aim for two or three substantial exercises per day. Repeat selected exercises from scratch and finish with unassisted mock interviews.
+
+## Current exercise
+
+Exercise 01 is in `exercises/01-user-directory`. Its first requirement is intentionally small; follow-up requirements are revealed during practice rather than stored in advance.
 
 ## Interview workflow
 
