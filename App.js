@@ -1,12 +1,12 @@
 import { StatusBar } from 'expo-status-bar';
 import { SafeAreaView, StyleSheet } from 'react-native';
 
-import UserDirectory from './exercises/01-user-directory/UserDirectory';
+import PackingList from './exercises/02-packing-list/PackingList';
 
 export default function App() {
   return (
     <SafeAreaView style={styles.container}>
-      <UserDirectory />
+      <PackingList />
       <StatusBar style="auto" />
     </SafeAreaView>
   );

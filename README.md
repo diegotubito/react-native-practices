@@ -54,7 +54,7 @@ Aim for two or three substantial exercises per day. Repeat selected exercises fr
 
 ## Current exercise
 
-Exercise 01 is in `exercises/01-user-directory`. Its first requirement is intentionally small; follow-up requirements are revealed during practice rather than stored in advance.
+Exercise 02 is in `exercises/02-packing-list`. It focuses on local state, events, immutable updates, props, and re-renders. Follow-up requirements are revealed during practice rather than stored in advance.
 
 ## Interview workflow
 
