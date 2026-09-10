@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "u1",
+      "name": "Ana Torres",
+      "team": "Design",
+      "isActive": true
+    },
+    {
+      "id": "u2",
+      "name": "Bruno Silva",
+      "team": "Engineering",
+      "isActive": false
+    },
+    {
+      "id": "u3",
+      "name": "Carla Ruiz",
+      "team": "Engineering",
+      "isActive": true
+    },
+    {
+      "id": "u4",
+      "name": "Diego Paz",
+      "team": "Product",
+      "isActive": true
+    },
+    {
+      "id": "u5",
+      "name": "Elena Soto",
+      "team": "Engineering",
+      "isActive": true
+    },
+    {
+      "id": "u6",
+      "name": "Facundo Rey",
+      "team": "Design",
+      "isActive": false
+    }
+  ]
+}
